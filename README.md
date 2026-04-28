@@ -40,9 +40,9 @@ Here are some ideas to get you started:
   <a href="https://angular.io" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/Angular-%230F0F11?style=for-the-badge&logo=angular&logoColor=%230F0F11&logoSize=auto&labelColor=lightgray"></a> 
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/Vue-63F2B4?style=for-the-badge&logo=vuedotjs&logoColor=63F2B4&logoSize=auto&labelColor=lightgray"></a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=%23FCC624&logoSize=auto&labelColor=lightgray"></a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=%23777BB4&labelColor=lightgray"></a>
 </p>
 
 ---
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=elenalaubinger&label=Profile%20views&color=9311d0&style=for-the-badge" alt="elenalaubinger" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=elenalaubinger&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="elenalaubinger" /></p>
